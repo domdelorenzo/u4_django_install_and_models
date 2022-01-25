@@ -1,10 +1,4 @@
-## Django lessons 1 and 2 of 5 - Setting up the app and creating models.
-
-
-
-![](https://en.wikipedia.org/wiki/File:Django_Reinhardt_(Gottlieb_07301).jpg)
-
-![](https://miro.medium.com/max/700/1*P3ODlZMsFN3uCmnTY3smaA.png)
+## Django lessons 1 and 2 of 5 - Setting up the app and creating models
 
 # How to Set Up a Django Application & Virtual Environment
 
