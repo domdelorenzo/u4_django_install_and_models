@@ -4,7 +4,7 @@
 
 ![](https://en.wikipedia.org/wiki/File:Django_Reinhardt_(Gottlieb_07301).jpg)
 
-
+![](https://miro.medium.com/max/700/1*P3ODlZMsFN3uCmnTY3smaA.png)
 
 # How to Set Up a Django Application & Virtual Environment
 
